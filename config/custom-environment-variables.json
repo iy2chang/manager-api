@@ -1,3 +1,4 @@
 {
-  "jwtPrivateKey": "manager_jwtPrivateKey"
+  "jwtPrivateKey": "manager_jwtPrivateKey",
+  "db": "manager_db"
 }

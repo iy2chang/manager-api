@@ -1,4 +1,6 @@
 {
-  "jwtPrivateKey": "",
+  "jwtPrivateKey": "unsecureKey",
+  "db": "mongodb://localhost/manager",
+  "port": "3900",
   "requiresAuth": true
 }

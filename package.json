@@ -8,13 +8,13 @@
     "start": "node index.js"
   },
   "engines": {
-    "node": "8.11.2"
+    "node": ">=19.0.0"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "bcrypt": "^2.0.0",
+    "bcrypt": "^5.0.0",
     "compression": "^1.7.3",
     "config": "^3.0.0",
     "cors": "^2.8.5",
